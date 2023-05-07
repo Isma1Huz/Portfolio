@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.landing {
+    height: 45rem;
+    width: 100%;
+    background-color: orange;
+}
+.navigation {
+    display: flex;
+    height: 5rem;
+    padding: 20px;
+
+}
+.nav-list {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 40rem;
+    list-style: none;
+}
+.nav-list li {
+    margin-left: 2rem;
+}
+.nav-list li a {
+    text-decoration: none;
+}
+.intro {
+    text-align: center;
+    width: 30%;
+    height: 15rem;
+    margin: 10rem 0 0 27rem;
+
+}
+.intro-txt {
+    font-size: 30px;
+}
