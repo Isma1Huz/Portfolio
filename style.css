@@ -3,17 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+/* Navigation and landing page */
 
 .landing {
     height: 45rem;
     width: 100%;
-    background-color: orange;
+    background-color: #9600FF;
 }
 .navigation {
     display: flex;
     height: 5rem;
     padding: 20px;
+    color: black;
 
 }
 .nav-list {
@@ -24,9 +25,11 @@
 }
 .nav-list li {
     margin-left: 2rem;
+    color: black;
 }
 .nav-list li a {
     text-decoration: none;
+    color: black;
 }
 .intro {
     text-align: center;
@@ -38,3 +41,174 @@
 .intro-txt {
     font-size: 30px;
 }
+
+/* About Me section */
+.about {
+    width: 100%;
+    height: 30rem;
+    font-size: larger;
+    
+
+}
+h1 {
+    text-align: center;
+    padding-top: 2rem;
+}
+.about-col {
+    width: 100%;
+    height: 10rem;
+    display: flex;
+    padding: 2rem 1rem 0 1rem;
+}
+.about-col .me-text {
+    width: 40%;
+   
+}
+.about-col .me-image  {
+    float: left;
+    width: 40%;
+    height: 10rem;
+    margin-right: 5rem;
+    padding-left: 3rem;
+}
+.me-image img {
+    width: 17rem;
+    
+}  
+.about-col .me-text ol {
+    margin-left: 3rem;
+}
+.about-col .me-text ol li {
+    font-size: arge;
+    line-height: 2rem;
+}
+
+/* Skills section */
+.skills  {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 5rem;
+}
+.skills  img {
+    width: 7rem;
+    height: 7rem;
+}
+
+
+/* Services Section */
+
+.services {
+    width: 100%;
+    height: 20rem;
+    background-color: gray;
+
+
+}
+.boxes {
+    display: flex;
+    justify-content: space-between;
+    padding: 3rem 5rem;
+}
+.box {
+    width: 10rem;
+    height: 10rem;
+    background-color: green;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    padding-top: 4rem;
+
+}
+
+
+/* Work Section */
+
+.work {
+    width: 100%;
+    height: 30rem;
+   
+   
+
+}
+.projects {
+    display: flex;
+    padding: 2rem 4rem;
+}
+.project1, .project2, .project3, .project4 {
+    width: 15rem;
+    height: 15rem;
+    margin: 2rem;
+    background-color: wheat;
+    border-radius: 20px;
+    overflow: hidden;
+}
+.project1 img {
+    width: 100%;
+    height: 100%;
+}
+.project2 img {
+    width: 100%;
+    height: 100%;
+}
+.project3 img {
+    width: 100%;
+    height: 100%;
+}
+.project4 img {
+    width: 100%;
+    height: 100%;
+}
+
+/* Contact Section */
+
+
+.contacts {
+ display: flex;
+
+}
+#contact {
+    width: 100%;
+    height: 30rem;
+    background-color: gray;
+}
+.Contact-list {
+    font-size: x-large;
+    width: 40%;
+    margin: 2rem 1rem 1rem 5rem;
+}
+#form {
+    display: grid;
+    grid-template-rows: auto;
+    width: 40%;
+    padding: 2rem;
+}
+#form input {
+    width: 70%;
+    margin: 0.5rem;
+    height: 2rem;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#form {
+    margin-left: 5rem;
+
+}
+textarea {
+    border-radius: 10px;
+    padding: 10px;
+}
+#form button {
+    margin: 1rem 1rem 1rem 5rem; 
+    border-radius: 10px;
+    width: 15rem;
+    height: 2rem;
+    background-color: green;
+}
+
+
+ul, ol {
+    text-decoration: none;
+    list-style: none ;
+}
+
