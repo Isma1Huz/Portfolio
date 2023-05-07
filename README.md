@@ -62,6 +62,6 @@ used id, class and element selectors
 ![sketch](https://user-images.githubusercontent.com/132744360/236701384-3996de28-5041-4060-9ffa-b757b81e271d.jpeg)
  
 ## Author
- ![isma](https://user-images.githubusercontent.com/132744360/236701477-42b20f4b-0d62-4b2f-af75-fcdc7071468c.jpg)
+sma](https://user-images.githubusercontent.com/132744360/236701820-c1d1258e-1e87-491b-b96a-5950742c572f.jpg)
  **Ismael Hussein**
  **ismaelhuz45@gmail.com**
