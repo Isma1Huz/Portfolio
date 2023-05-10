@@ -14,13 +14,6 @@ __Portfolio Website :)__
 ____________
 
 
-
-
-## Emphasis used
---
-<strong> tag 
-<em> tag<i> tag**
-
 ## Lists used
 
  - ordered list (ol) 
