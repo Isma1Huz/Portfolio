@@ -17,10 +17,9 @@ ____________
 
 
 ## Emphasis used
-
-**<strong> tag**
-**<em> tag**
-**<i> tag**
+--
+<strong> tag 
+<em> tag<i> tag**
 
 ## Lists used
 
