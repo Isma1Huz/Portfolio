@@ -1,5 +1,5 @@
 ---
-__Portfolio Website :)__
+# Portfolio Website
 
 -  This is a portfolio website that showcases all of my work as a software engineer. I have used HTML and CSS to develop the website. I first sketched the website on paper drawn from various portfolio websites online and then developed it into a fully functional website.
 
