@@ -38,7 +38,7 @@ ________________________________________________________________________________
 - The main aim of the project is to showcase my work as a developer to a potential employer.
 ## Images
 
-![sketch](https://user-images.githubusercontent.com/132744360/236701384-3996de28-5041-4060-9ffa-b757b81e271d.jpeg)
+![sketch (1)](https://github.com/Isma1Huz/Portfolio/assets/132744360/3356856a-2504-4145-b141-c0b0cb177818)
 # license
 - MIT License
 # Release 
