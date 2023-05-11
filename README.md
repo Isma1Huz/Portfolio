@@ -13,6 +13,9 @@ __Portfolio Website :)__
 
 ________________________________________________________________________________________________________________________________________________________________
 
+# Preview
+![Screenshot from 2023-05-11 09-02-27](https://github.com/Isma1Huz/Portfolio/assets/132744360/222db9b2-a879-49c7-ac47-c1d992af5e33)
+![Screenshot from 2023-05-11 09-02-34](https://github.com/Isma1Huz/Portfolio/assets/132744360/ab3bab18-9451-45cf-9dff-98e698b747f0)
 ## Lists used
 
  - ordered list (ol) 
