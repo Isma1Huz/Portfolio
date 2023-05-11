@@ -41,11 +41,12 @@ ________________________________________________________________________________
 ![sketch](https://user-images.githubusercontent.com/132744360/236701384-3996de28-5041-4060-9ffa-b757b81e271d.jpeg)
 # license
 - MIT License
- 
 # Release 
-
 - May 2023 
+
+# Host platform 
+- Github pages (gh-pages)
 ## Author
-![isma](https://github.com/Isma1Huz/Portfolio/assets/132744360/a3b472bc-4dbd-416b-b4eb-1c6f68856064)
+![isma (2)](https://github.com/Isma1Huz/Portfolio/assets/132744360/9cd5a776-e0b7-4eb5-abfd-a6e0f4857c1f)
  **Ismael Hussein**
  **ismaelhuz45@gmail.com**
