@@ -11,48 +11,44 @@ __Portfolio Website :)__
 # DEMO
 - Please preview my site at https://isma1huz.github.io/Portfolio/
 
-____________
-
+________________________________________________________________________________________________________________________________________________________________
 
 ## Lists used
 
  - ordered list (ol) 
  - unordered list(ul)
 
-
-
 ## Code
+- used "form" to get interaction with the user
 
-used form to get for interaction with the user
-
--<form id="form">
+- <form id="form">
         <input type="text" placeholder="Your Name">
         <input type="text" placeholder="Your Email">
         <input type="text" placeholder="SUbject">
         <textarea name="Message" placeholder="Message" cols="5" rows="5"></textarea>
         <button type="submit">Send Message</button>
-       </form>
+   </form>
 
 
-USED DIV ELEMENT FOR SECTIONS 
-
- -  <div></div>
- 
-
-
-used id, class and element selectors 
-
- - #id 
- -.class
- - p(element)
-
-
+## USED DIVISION SECTIONS 
+- Div element
+- 
+## selectors 
+    
+ - id(#) 
+ - class(.)
+ - element(p,h1....)
+# Objective 
+- The main aim of the project is to showcase my work as a developer to a potential employer.
 ## Images
 
-
-
 ![sketch](https://user-images.githubusercontent.com/132744360/236701384-3996de28-5041-4060-9ffa-b757b81e271d.jpeg)
+# license
+- MIT License
  
+# Release 
+
+- May 2023 
 ## Author
 ![isma](https://user-images.githubusercontent.com/132744360/236701934-6655aaef-f5a5-4d56-ab69-9a478d4ace19.jpg)
  **Ismael Hussein**
