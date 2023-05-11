@@ -47,6 +47,7 @@ ________________________________________________________________________________
 # Host platform 
 - Github pages (gh-pages)
 ## Author
-![isma (2)](https://github.com/Isma1Huz/Portfolio/assets/132744360/9cd5a776-e0b7-4eb5-abfd-a6e0f4857c1f)
- **Ismael Hussein**
- **ismaelhuz45@gmail.com**
+![isma (3)](https://github.com/Isma1Huz/Portfolio/assets/132744360/226c966f-524a-40a4-ad72-2c099d44a8b8)
+
+- **Ismael Hussein**
+- **ismaelhuz45@gmail.com**
