@@ -19,15 +19,11 @@ ________________________________________________________________________________
  - unordered list(ul)
 
 ## Code
-- used "form" to get interaction with the user
-
-- <form id="form">
-        <input type="text" placeholder="Your Name">
-        <input type="text" placeholder="Your Email">
-        <input type="text" placeholder="SUbject">
-        <textarea name="Message" placeholder="Message" cols="5" rows="5"></textarea>
-        <button type="submit">Send Message</button>
-   </form>
+- used interaction with the user with :
+- forms 
+- input 
+- textarea
+- button
 
 
 ## USED DIVISION SECTIONS 
@@ -50,6 +46,6 @@ ________________________________________________________________________________
 
 - May 2023 
 ## Author
-![isma](https://user-images.githubusercontent.com/132744360/236701934-6655aaef-f5a5-4d56-ab69-9a478d4ace19.jpg)
+![isma](https://github.com/Isma1Huz/Portfolio/assets/132744360/a3b472bc-4dbd-416b-b4eb-1c6f68856064)
  **Ismael Hussein**
  **ismaelhuz45@gmail.com**
