@@ -9,13 +9,12 @@
 - HTML
 - CSS
 # DEMO
-- Please preview my site at https://isma1huz.github.io/Portfolio/
+- Please preview my site at 
 
 ________________________________________________________________________________________________________________________________________________________________
 
 # Preview
-![Screenshot from 2023-05-11 09-02-27](https://github.com/Isma1Huz/Portfolio/assets/132744360/222db9b2-a879-49c7-ac47-c1d992af5e33)
-![Screenshot from 2023-05-11 09-02-34](https://github.com/Isma1Huz/Portfolio/assets/132744360/ab3bab18-9451-45cf-9dff-98e698b747f0)
+
 ## Lists used
 
  - ordered list (ol) 
@@ -39,13 +38,11 @@ ________________________________________________________________________________
  - element(p,h1....)
 # Objective 
 - The main aim of the project is to showcase my work as a developer to a potential employer.
-## Images
 
-![sketch (1)](https://github.com/Isma1Huz/Portfolio/assets/132744360/3356856a-2504-4145-b141-c0b0cb177818)
 # license
 - MIT License
 # Release 
-- May 2023 
+- June 2023 
 
 # Host platform 
 - Github pages (gh-pages)
